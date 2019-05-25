@@ -1,0 +1,5 @@
+
+
+nextWord: async(lastWord, currentText) => {
+  
+}
